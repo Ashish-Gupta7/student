@@ -9,3 +9,5 @@
 6. set env variables (PORT & DEBUG)
 7. connect server in app.js
 8. create database and connect in config folder in mongoose-connection.js
+
+## day 2
